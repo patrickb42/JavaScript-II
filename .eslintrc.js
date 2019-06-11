@@ -16,6 +16,7 @@ module.exports = {
         "no-console": 0,
         "comma-dangle": 0,
         "one-var": 0,
+        "no-underscore-dangle": 0,
         "indent": [
             "error",
             4
